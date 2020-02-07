@@ -57,3 +57,5 @@ describe 'The directors_database method can be processed by the directors_totals
     end
   end
 end
+
+puts directors_database
